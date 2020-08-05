@@ -1,7 +1,7 @@
-### Hi buddy, I'm Brian Pondi - aka [The GeoGeek][website] 👋
+### Hi buddy, I'm Brian Pondi - aka The GeoGeek
 
 ## I'm a Geographer, GIS Architect, Developer, and Spatial Analyst!
-- 🔭 I’m currently working on  [Java and Spring Boot][website]!
+- 🔭 I’m currently working on  Java and Spring Boot!
 - 🌱 I’m currently learning Backend and Geospatial intergration
 - 🥅 Goals: Intergrating GIS capabilities to existing applications in various companies
 
@@ -56,7 +56,11 @@
 
 ---
 
-<img align="left" alt="PondiB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PondiB&show_icons=true&hide_border=true" />
+<img align="left" alt="PondiB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PondiB&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PondiB&layout=compact)](https://github.com/PondiB/github-readme-stats)
+
 [website]: https://pondib.github.io/pondi/
 [twitter]: https://twitter.com/PondiB
 [youtube]: https://youtube.com/BrianPondiGeoGeek
