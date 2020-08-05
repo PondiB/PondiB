@@ -3,9 +3,8 @@
 ## I'm a Geographer, GIS Architect, Developer, and Spatial Analyst!
 - 🔭 I’m currently working on  [Java and Spring Boot][website]!
 - 🌱 I’m currently learning Backend and Geospatial intergration
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Intergrating GIS capabilities to existing applications
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 Goals: Intergrating GIS capabilities to existing applications in various companies
+
 
 ### Connect with me:
 
@@ -19,6 +18,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
@@ -38,7 +39,7 @@
 
 ### 📺 My Selected YouTube Videos
 <!-- YOUTUBE:START -->
-- [A catch up with a Software Engineering Lead](https://www.youtube.com/watch?v=hQQ-7qBhFjo&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF&index=5)
+- [A Catch Up with a Software Engineering Lead](https://www.youtube.com/watch?v=hQQ-7qBhFjo&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF&index=5)
 - [A Catch Up with a Senior Backend Engineer| Senior Software Engineer](https://www.youtube.com/watch?v=clOoKcUSy_k&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF&index=6)
 - [You Can Switch from a GIS Career | Geographic Information Systems](https://www.youtube.com/watch?v=uMu62QXaHZc&t=24s)
 <!-- YOUTUBE:END -->
