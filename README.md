@@ -40,18 +40,22 @@
 
 ### 📺 My Selected YouTube Videos
 <!-- YOUTUBE:START -->
-- [A Catch Up with a Software Engineering Lead](https://www.youtube.com/watch?v=hQQ-7qBhFjo&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF&index=5)
-- [A Catch Up with a Senior Backend Engineer| Senior Software Engineer](https://www.youtube.com/watch?v=clOoKcUSy_k&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF&index=6)
-- [You Can Switch from a GIS Career | Geographic Information Systems](https://www.youtube.com/watch?v=uMu62QXaHZc&t=24s)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 My Selected Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Organization’s Spatial Data Infrastructure Using Open Source Stack](https://medium.com/swlh/building-your-organizations-spatial-data-infrastructure-using-open-source-stack-d3f601fcc33a)
-- [Integrating GIS with Statistics for Global Food Security](https://medium.com/swlh/integrating-gis-with-statistics-for-global-food-security-daace5ee8e5e)
-- [Restaurants insights can tell you where to live in a Dubai Community](https://medium.com/swlh/restaurants-insights-can-tell-you-where-to-live-in-a-dubai-community-405389604772)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
