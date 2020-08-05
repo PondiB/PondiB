@@ -51,9 +51,11 @@
 
 ### 📕 My Selected Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Organization’s Spatial Data Infrastructure Using Open Source Stack](https://medium.com/swlh/building-your-organizations-spatial-data-infrastructure-using-open-source-stack-d3f601fcc33a)
-- [Integrating GIS with Statistics for Global Food Security](https://medium.com/swlh/integrating-gis-with-statistics-for-global-food-security-daace5ee8e5e)
-- [Restaurants insights can tell you where to live in a Dubai Community](https://medium.com/swlh/restaurants-insights-can-tell-you-where-to-live-in-a-dubai-community-405389604772)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
