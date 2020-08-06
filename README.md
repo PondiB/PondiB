@@ -1,7 +1,7 @@
-### Hi buddy, I'm Brian Pondi - aka The GeoGeek
+### Hi buddy, I'm Brian Pondi : aka Pondi-B The GeoGeek
 
-## I'm a Geographer, GIS Architect, Developer, and Spatial Analyst!
-- 🔭 I’m currently working on  Java and Spring Boot!
+## I'm a Geographer, GIS Architect, GIS Software Developer, and Spatial Analyst!
+- 🔭 I’m currently working on  Java and Spring Boot
 - 🌱 I’m currently learning Backend and Geospatial intergration
 - 🥅 Goals: Intergrating GIS capabilities to existing applications in various companies
 
@@ -15,9 +15,12 @@
 [<img align="left" alt="PondiB  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
@@ -44,4 +47,3 @@
 [youtube]: https://youtube.com/BrianPondiGeoGeek
 [instagram]: https://www.instagram.com/pondi_the_geogeek/
 [linkedin]: https://www.linkedin.com/in/brian-pondi/
-[webdevplaylist]: https://www.youtube.com/watch?v=I30OR3dFutY&list=PL3w93KJA0kVSiwg1ELQ6UtvuFl5kyS5xF
