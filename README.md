@@ -1,7 +1,9 @@
 ### Hi buddy, I'm Brian Pondi : aka Pondi-B The GeoGeek
 
 ## I'm a Geographer, GIS Architect, GIS Software Developer, and Spatial Analyst!
-- 🔭 I’m currently working on  Java and Spring Boot
+A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
+I help organizations to integrate existing Geospatial capabilities into applications. I continue to learn.
+- 🔭 I’m currently improving my knowledge on  Java and Spring Boot
 - 🌱 I’m currently learning Backend and Geospatial intergration
 - 🥅 Goals: Intergrating GIS capabilities to existing applications in various companies
 
@@ -33,9 +35,6 @@
 [<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 
-
-<br />
-<img  alt="PondiB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PondiB&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 <br />
 
 [website]: https://pondib.github.io/pondi/
