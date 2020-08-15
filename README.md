@@ -3,9 +3,9 @@
 ## I'm a Geographer, GIS Architect, GIS Software Developer, and Spatial Analyst!
 A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
 I help organizations to integrate existing Geospatial capabilities into applications. I continue to learn.
-- 🔭 I’m currently improving my knowledge on  Java and Spring Boot
-- 🌱 I’m currently learning Backend and Geospatial intergration
-- 🥅 Goals: Intergrating GIS capabilities to existing applications in various companies
+- 🔭 I’m currently improving my knowledge on  Java and Spring Boot.
+- 🌱 I’m currently learning Backend and Geospatial intergration.
+- 🥅 Goals: Intergrating existing GIS capabilities to applications and solutions in various companies.
 
 
 ### Connect with me:
