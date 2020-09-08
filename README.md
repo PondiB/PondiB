@@ -1,6 +1,6 @@
 ### Hi buddy, I'm Brian Pondi : aka Pondi-B The GeoGeek.
 
-## I'm a Geographer and GIS Architect who do Software Engineering!
+## I'm a Geographer and GIS Architect who loves Software Engineering!
 A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
 I help organizations to integrate existing Geospatial capabilities into applications. I continue to learn.
 - 🔭 I’m currently improving my knowledge on  Java and Spring Boot.
