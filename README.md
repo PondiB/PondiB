@@ -4,7 +4,7 @@
 A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
 I help organizations to integrate existing Geospatial capabilities into applications. I continue to learn.
 - 🔭 I’m currently improving my knowledge on  Java and Spring Boot.
-- 🌱 Looking forward onto Backend Engineer Roles (Java, Python). A bonus if it's spatial data intensive. 
+- 🌱 Looking forward onto Backend Engineer Roles (Java, Python, Golang, Scala). A bonus if it's spatial data intensive. 
 - 🥅 Goals: Intergrating existing GIS capabilities to applications and solutions in various companies.
 
 
