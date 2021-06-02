@@ -1,6 +1,6 @@
 ### Hi buddy, I'm Brian Pondi : The GeoGeek.
 
-## I'm a Geographer and a Software Engineer!
+### I'm a Geographer and a Software Engineer !
 A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
 I help organizations to integrate existing Geospatial capabilities into their applications. I continue to learn.
 - 🔭 I’m currently improving my knowledge in the Geo-Informatics Space.
@@ -10,7 +10,6 @@ I help organizations to integrate existing Geospatial capabilities into their ap
 
 ### Connect with me:
 
-[<img align="left" alt="https://pondib.github.io/pondi/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="PondiB | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="PondiB  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PondiB  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
