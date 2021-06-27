@@ -1,11 +1,10 @@
 ### Hi buddy, I'm Brian Pondi : The GeoGeek.
 
 ### I'm a Geographer and a Software Engineer !
-A Geographer who does Computational Geography to solve various location-based challenges in our lives today. 
-I help organizations to integrate existing Geospatial capabilities into their applications. I continue to learn.
+A Computational Geographer who tries to solve various location-based challenges in our lives today. I continue to learn.
 - 🔭 I’m currently improving my knowledge in the Geo-Informatics Space.
-- 🌱 Looking forward onto Backend Engineer Roles (Java, Python, Golang, Scala). A bonus if it's spatial data intensive. 
-- 🥅 Goals: Intergrating existing GIS capabilities to applications and solutions in various companies.
+- 🌱 Looking forward onto Software Engineer Roles (Java, Python, Golang). It needs to be spatial data intensive. 
+- 🥅 Goals: Intergrating existing GIS capabilities to applications and solutions in our lives.
 
 
 ### Connect with me:
