@@ -2,8 +2,8 @@
 
 ### I'm a Geographer and a Software Engineer !
 A Computational Geographer who tries to solve various location-based challenges and data processing bottlenecks in our lives today. I learn everyday.
-- 🔭 I’m currently improving my knowledge in the Geo-Informatics space and Software Engineering with a focus on Data.
-- 🌱 Looking forward onto Software Engineer Roles (Python, Golang, Kotlin, Java, etc). A bonus if it's spatial data intensive. 
+- 🔭 I’m currently improving my knowledge in the Geo-Informatics space and Software Engineering with a focus on Geo-Data.
+- 🌱 Looking forward onto Software Engineer Roles (Python, Kotlin, Golang, etc). A bonus if it's spatial data intensive. 
 - 🥅 Goals: To develop reliable and scalable data-intensive applications that are positiviely impactful to the society.
 
 
@@ -20,6 +20,7 @@ A Computational Geographer who tries to solve various location-based challenges 
 ### Languages and Tools:
 
 [<img  alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img  alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]
 [<img  alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
 [<img  alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
 [<img  alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
