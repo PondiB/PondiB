@@ -1,5 +1,5 @@
-### Hi buddy, I'm Brian Pondi : The GeoGeek.
+### Hi buddy, I'm Brian Pondi: The GeoGeek 🌍 😎.
 
-### I'm a Geographer and a Software Engineer !
-A Computational Geographer focused on building backend Geospatial software systems that positively impacts our daily lives.
+### I'm a Geographer and a Software Engineer!
+A Computational Geographer focused on building Geospatial Machine Learning(ML) backend software systems that positively impact our daily lives.
 
