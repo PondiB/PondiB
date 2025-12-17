@@ -1,5 +1,14 @@
-### Hi buddy, I'm Brian Pondi, a Geospatial Researcher and a Software Engineer!
+### Hi there, I’m **Brian Pondi** — Geospatial Researcher & Software Engineer
 
-A Computational Geographer focused on building Geospatial Machine Learning(ML) backend software systems that positively impact our daily lives. Currently, I am a Researcher at the Institute for Geoinformatics in Münster Germany on an EU-funded project i.e. [Open Earth Monitor Cyberinfrastructure](https://earthmonitor.org/) . Additionally, I am pursuing my doctoral degree in Geoinformatics under the advisory of [Edzer Pebesma](https://github.com/edzer).
+I’m a **Computational Geographer** specializing in the design and development of **geospatial machine-learning (ML) backend systems** that create real-world impact. My work sits at the intersection of **Earth Observation, scalable data infrastructures, and reproducible ML workflows**.
 
-Always open to discussing new opportunities and challenges for collaboration, so feel free to contact me 🙂.
+Currently, I’m a **Researcher at the Institute for Geoinformatics (IfGI), University of Münster, Germany**, working on the EU-funded **[Open Earth Monitor Cyberinfrastructure](https://earthmonitor.org/)** project. In parallel, I’m pursuing a **PhD in Geoinformatics**, focusing on **machine-learning reproducibility and interoperability for Earth Observation data cubes**, under the advisement of **[Prof. Edzer Pebesma](https://github.com/edzer)**.
+
+**Research interests & skills include:**
+- 🌍 Earth Observation & Data Cubes  
+- 🤖 Geospatial Machine Learning & AI  
+- 🧩 Reproducible & Interoperable ML workflows  
+- 🗺️ Spatial data infrastructures & cloud-native geospatial systems  
+- ⚙️ Backend engineering for geospatial applications  
+
+I’m always open to **collaborations, research discussions, and new challenges**—feel free to reach out! 😊
